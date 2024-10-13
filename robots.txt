@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://koqoyofociji.pages.dev/sitemap.xml
